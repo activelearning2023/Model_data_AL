@@ -30,7 +30,7 @@ Running```git clone https://github.com/activelearning2022/adversarial_active_lea
 The project structure and intention are as follows : 
 ```
 Adversarial active learning			# Source code		
-    ├── seed.py			 	                                          # Set up random seed
+    ├── seed.py			 	                           # Set up random seed
     ├── query_strategies		                        # All query_strategies
     │   ├── adaptive_adversarial_sample.py                      # Our method
     │   ├── bayesian_active_learning_disagreement_dropout.py	# Deep bayesian query method
