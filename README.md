@@ -43,7 +43,7 @@ Adversarial active learning			# Source code
     ├── data_func.py	                                                # Main functions used for data processing
     ├── handlers.py                                             # Get dataloader for the dataset
     ├── main.py			                                            # An example for code utilization, including the whole process of active learning
-    ├── nets.py		                                              # Training models and methods needed for query method
+    ├── nets.py		                                          # Training models and methods needed for query method
     ├── supervised_baseline.py	                                # An example for supervised learning traning process
     └── utils.py			                        # Important setups including network, dataset, hyperparameters...
 ```
