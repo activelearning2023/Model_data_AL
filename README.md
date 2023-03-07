@@ -29,7 +29,7 @@ The above environment is successful when running the code of the project. Pytorc
 Running```git clone https://github.com/activelearning2022/adversarial_active_learning.git```  
 The project structure and intention are as follows : 
 ```
-Adversarial active learning			              # Source code		
+Adversarial active learning			                # Source code		
     ├── seed.py			 	                        # Set up random seed
     ├── query_strategies		                        # All query_strategies
     │   ├── adaptive_adversarial_sample.py                      # Our method
