@@ -34,10 +34,10 @@ Adversarial active learning			# Source code
     ├── query_strategies		                                    # All query_strategies
     │   ├── adaptive_adversarial_sample.py                          # Our method
     │   ├── bayesian_active_learning_disagreement_dropout.py	  # Deep bayesian query method
-    │   ├── entropy_sampling.py		                              # Entropy based query method
-    │   ├── entropy_sampling_dropout.py		                      # Entropy based MC dropout query method
-    │   ├── kcenter_greedy.py		                              # Coreset
-    │   ├── random_sampling.py		                              # Random selection
+    │   ├── entropy_sampling.py		                        # Entropy based query method
+    │   ├── entropy_sampling_dropout.py		                # Entropy based MC dropout query method
+    │   ├── kcenter_greedy.py		                        # Coreset
+    │   ├── random_sampling.py		                        # Random selection
     │   ├── strategy.py                                         # Functions needed for query strategies
     ├── data.py	                                                # Prepare the dataset & initialization and update for training dataset
     ├── data_func.py	                                        # Main functions used for data processing
