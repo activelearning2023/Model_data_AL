@@ -45,7 +45,7 @@ Adversarial active learning			# Source code
     ├── main.py			                                            # An example for code utilization, including the whole process of active learning
     ├── nets.py		                                              # Training models and methods needed for query method
     ├── supervised_baseline.py	                                # An example for supervised learning traning process
-    └── utils.py			                                          # Important setups including network, dataset, hyperparameters...
+    └── utils.py			                                        # Important setups including network, dataset, hyperparameters...
 ```
 ### 2) Datasets preparation 
 1. Download the datasets from the official address:
