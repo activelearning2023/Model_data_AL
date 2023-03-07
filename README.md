@@ -40,7 +40,7 @@ Adversarial active learning			# Source code
     │   ├── random_sampling.py		                              # Random selection
     │   ├── strategy.py                                         # Functions needed for query strategies
     ├── data.py	                                                # Prepare the dataset & initialization and update for training dataset
-    ├── data_func.py	                                                # Main functions used for data processing
+    ├── data_func.py	                                        # Main functions used for data processing
     ├── handlers.py                                             # Get dataloader for the dataset
     ├── main.py			                                # An example for code utilization, including the whole process of active learning
     ├── nets.py		                                        # Training models and methods needed for query method
